@@ -10,7 +10,7 @@
 
 3. **Sliding Window**:
    - Managing dynamic ranges within arrays and strings.
-   - Example: Longest substring without repeating characters.
+   - Example: Longest vsubstring without repeating characters.
 
 4. **Divide and Conquer**:
    - Breaking down problems into smaller subproblems.
